@@ -1,7 +1,8 @@
 ---
 
 # 🐾 Cat vs Dog Image Classifier
-A simple **Machine Learning** project that predicts whether an image contains a **Cat** or a **Dog** 🐱🐶
+
+>A simple **Machine Learning** project that predicts whether an image contains a **Cat** or a **Dog** 🐱🐶
 
 ---
 
